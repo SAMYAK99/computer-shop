@@ -31,13 +31,13 @@ void entry()
             cin>>i;
 }
                    void display()
-{            cout<<"\n\nCUSTOMER ID:"<<cno<<endl;
-             cout<<"CUSTOMER  NAME :"<<cname<<endl;
-            cout<<"CUSTOMER  ADRESS :"<<adress<<endl;
-           cout<<"CUSTOMER  SERVICE  NUMBER :" <<a<<endl;
-            cout<<"CUSTOMER  SMART  CARD  NUMBER :"<<b<<endl;
-            cout<<"CUSTOMER  PHONE  NUMBER :"<<c<<endl;
-         cout<<"CUSTOMER  BILL  NUMBER :"<<i<<endl;
+{            cout<<"\n\nCUSTOMER ID:"<<cno<<"\n';
+             cout<<"CUSTOMER  NAME :"<<cname<<"\n";
+            cout<<"CUSTOMER  ADRESS :"<<adress<<"\n";
+           cout<<"CUSTOMER  SERVICE  NUMBER :" <<a<<"\n";
+            cout<<"CUSTOMER  SMART  CARD  NUMBER :"<<b<<"\n";
+            cout<<"CUSTOMER  PHONE  NUMBER :"<<c<<"\n";
+         cout<<"CUSTOMER  BILL  NUMBER :"<<i<<"\n";
    }
 int rcno()
 {        return cno;
